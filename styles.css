@@ -80,6 +80,11 @@ h2 {
     padding: 40px;
 }
 
+h3 {
+    font-weight: 900;
+    color:#F9FAF8;
+}
+
 .action-button {
     background-color: #3882F6;
     color: #F9FAF8;
@@ -136,4 +141,25 @@ h2 {
     font-size: 20px;
     font-weight: bold;
     text-align: end;
+}
+
+.action {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+}
+
+.action-box {
+    background-color: #3882F6;
+    padding: 40px 0;
+    border-radius: 8px;
+    flex: 1;
+    display: flex;
+    justify-content: space-around;
+}
+
+.action-box p {
+    color:#E5E7EB;
+    font-weight: 300;
 }
