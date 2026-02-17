@@ -1,7 +1,8 @@
 # Lading Page Project
 
-> Source: [Landing Page Project](https://www.theodinproject.com/lessons/foundations-landing-page).
-> Live preview: [](https://matecg.github.io/odin-landing-page)
+> **Source**: [Landing Page Project](https://www.theodinproject.com/lessons/foundations-landing-page).
+> 
+> **Live preview**: [Landing Page](https://matecg.github.io/odin-landing-page).
 
 A project from Odin Project Full Stack Developer curriculum. The goal is to reproduce the landing page design, which can be found at: `./imgs/design/content.png`.
 
