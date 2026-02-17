@@ -8,6 +8,12 @@
     list-style: none;
 }
 
+body {
+    display:flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
 header,
 .hero,
 .info,
@@ -89,15 +95,15 @@ h3 {
     background-color: #3882F6;
     color: #F9FAF8;
     font-weight: 600;
-    font-size: 18px;
+    font-size: 17px;
     border-radius: 8px;
     border: none;
-    padding: 5px 30px;
+    padding: 6px 35px;
     cursor: pointer;
 }
 
 .outline {
-    outline: 2px solid #F9FAF8;
+    border: 2px solid #F9FAF8;
 }
 
 .cards-container {
@@ -162,4 +168,12 @@ h3 {
 .action-box p {
     color:#E5E7EB;
     font-weight: 300;
+}
+
+footer {
+    color:#E5E7EB;
+    font-size: 16px;
+    font-weight: 300;
+    text-align: center;
+    padding: 30px 0;
 }
